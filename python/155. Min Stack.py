@@ -1,9 +1,9 @@
 class MinStack:
 
     def __init__(self):
-        """
-        maintain two lists, one of them contain minimum values
-        """
+        
+        #maintain two lists, one of them contain minimum values
+        
         self.data = []
         self.minData = []
         
