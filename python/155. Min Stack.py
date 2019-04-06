@@ -49,3 +49,4 @@ print(param_3)
 print(param_4)
 
 # april 5, 2019 : 824 ms
+# april 6, 2019 :  60 ms
